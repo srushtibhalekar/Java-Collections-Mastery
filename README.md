@@ -1,5 +1,3 @@
-
-
 # Java Collections Mastery ☕ 
 
 A practical collection of Java programs covering the Java Collections Framework, from basic concepts to advanced implementations.
